@@ -1,0 +1,10 @@
+# n = int(input('enter the number : '))
+n = 50
+i =  0
+sum = 0
+
+for i in range(i, n):
+    sum+=i
+    i+=1
+
+print(f"the sum of numbers from 1 to {n} is : ", sum)
